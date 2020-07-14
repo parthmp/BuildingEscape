@@ -1,0 +1,9 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+Content/StarterContent/
+*.VC.db
+Binaries/Win64/UE4Editor-BuildingEscape-1186.pdb
