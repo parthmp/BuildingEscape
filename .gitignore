@@ -7,3 +7,5 @@
 Content/StarterContent/
 *.VC.db
 Binaries/Win64/UE4Editor-BuildingEscape-1186.pdb
+Binaries/
+.vs/BuildingEscape/v16/ipch/
