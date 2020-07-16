@@ -19,7 +19,8 @@ void UPositionReport::BeginPlay()
 {
 	Super::BeginPlay();
 	FString ObjectName = GetOwner()->GetName();
-	UE_LOG(LogTemp, Warning, TEXT("THIS IS SPARTTAA! on %s"), *ObjectName);
+	FString ObjectPos = GetOwner()->GetTransform().GetLocation().ToString();
+	UE_LOG(LogTemp, Warning, TEXT("%s is at, %s"), *ObjectName, *ObjectPos);
 	
 }
 
