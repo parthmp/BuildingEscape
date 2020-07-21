@@ -2,6 +2,7 @@
 
 
 #include "Grabber.h"
+#include "DrawDebugHelpers.h"
 
 // Sets default values for this component's properties
 UGrabber::UGrabber()
@@ -19,16 +20,93 @@ void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("This is from grabber!"));
-	
+	FindPhysicsHandler();
+	FindInputComponent();
 }
 
+void UGrabber::Grab() {
+
+	UE_LOG(LogTemp, Warning, TEXT("grabber called!"));
+
+	FHitResult Hit = GetFirstPhysicsBodyInReach();
+	UPrimitiveComponent* ComponentToGrab = Hit.GetComponent();
+	AActor* ActorHit = Hit.GetActor();
+
+	PhysicsHandler->GrabComponent(ComponentToGrab,NAME_None, ComponentToGrab->GetOwner()->GetActorLocation(), true);
+
+}
+void UGrabber::Release() {
+	UE_LOG(LogTemp, Warning, TEXT("release called!"));
+	PhysicsHandler->ReleaseComponent();
+}
+
+void UGrabber::FindInputComponent() {
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+
+	if (InputComponent) {
+		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+		InputComponent->BindAction("Grab", IE_Released, this, &UGrabber::Release);
+	}
+	else {
+		UE_LOG(LogTemp, Error, TEXT("InputComponent not found for : %s"), *(GetOwner()->GetName()));
+	}
+}
+
+const FHitResult UGrabber::GetFirstPhysicsBodyInReach() {
+
+	FVector Location;
+	FRotator Rotation;
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Location, Rotation);
+
+	FVector EndTrace = Location + (Rotation.Vector() * Reach);
+
+	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
+
+	FHitResult Hit;
+	GetWorld()->LineTraceSingleByObjectType(
+		Hit,
+		Location,
+		EndTrace,
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+		TraceParams
+	);
+
+	AActor* HittedActor = Hit.GetActor();
+
+	if (HittedActor) {
+		UE_LOG(LogTemp, Warning, TEXT("Hit at %s"), *(HittedActor->GetName()));
+	}
+
+	return Hit;
+}
+
+void UGrabber::FindPhysicsHandler() {
+	PhysicsHandler = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	if (PhysicsHandler) {
+		///physics component initialized.
+	}
+	else {
+		UE_LOG(LogTemp, Error, TEXT("PhysicsComponent not found for : %s"), *(GetOwner()->GetName()));
+	}
+}
 
 // Called every frame
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	// ...
+	if (PhysicsHandler->GrabbedComponent) {
+
+		FVector Location;
+		FRotator Rotation;
+		GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Location, Rotation);
+
+		FVector EndTrace = Location + (Rotation.Vector() * Reach);
+
+		PhysicsHandler->SetTargetLocation(EndTrace);
+	}
+
+	
+
 }
 

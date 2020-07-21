@@ -1,0 +1,1151 @@
+﻿Log file open, 07/21/20 14:31:13
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseGame.ini
+LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Config/DefaultGame.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/Windows/WindowsGame.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseInput.ini
+LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Config/DefaultInput.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseCompat.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseLightmass.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseScalability.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseHardware.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseRuntimeOptions.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseInstallBundle.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseDeviceProfiles.ini
+LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseGameUserSettings.ini
+LogPluginManager: Mounting plugin Paper2D
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Editor/EditorScriptingUtilities/Config/BaseEditorScriptingUtilities.ini
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini
+LogPluginManager: Mounting plugin MagicLeap
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Lumin/MagicLeap/Config/BaseMagicLeap.ini
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Config/BaseMagicLeapLightEstimation.ini
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Config/BaseOculusVR.ini
+LogPluginManager: Mounting plugin PhysXVehicles
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/PhysXVehicles/Config/BasePhysXVehicles.ini
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Synthesis/Config/BaseSynthesis.ini
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Certificates/ThirdParty/cacert.pem
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jun  2 2020 06:19:14
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -filehostip=192.168.0.101+127.0.0.1 -allowcaching -stdout -abslog="C:\Users\Tony Stark\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Unreal+Engine+UE_4.25\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=0D48F68C45355D44434DF696429655CB -SessionOwner="Tony Stark" -SessionName=JARVIS
+LogInit: Base Directory: D:/Unreal/BuildingEscape/Saved/StagedBuilds/WindowsNoEditor/BuildingEscape/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.21-09.01.13:402][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.21-09.01.13:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-09.01.13:406][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.21-09.01.13:407][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.07.21-09.01.13:407][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.07.21-09.01.13:407][  0]LogHAL: Display: Platform has ~ 32 GB [34266222592 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.21-09.01.13:407][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.07.21-09.01.13:407][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-09.01.13:407][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:407][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.21-09.01.13:408][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.21-09.01.13:408][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Config/ConsoleVariables.ini
+[2020.07.21-09.01.13:409][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.21-09.01.13:409][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.21-09.01.13:409][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.21-09.01.13:409][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../BuildingEscape/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.21-09.01.13:409][  0]LogInit: Computer: JARVIS
+[2020.07.21-09.01.13:409][  0]LogInit: User: TonyStark
+[2020.07.21-09.01.13:409][  0]LogInit: CPU Page size=4096, Cores=12
+[2020.07.21-09.01.13:409][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.21-09.01.13:410][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.07.21-09.01.13:410][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.07.21-09.01.13:410][  0]LogMemory: Process Physical Memory: 144.98 MB used, 168.14 MB peak
+[2020.07.21-09.01.13:410][  0]LogMemory: Process Virtual Memory: 153.27 MB used, 162.52 MB peak
+[2020.07.21-09.01.13:410][  0]LogMemory: Physical Memory: 11468.15 MB used,  21210.67 MB free, 32678.82 MB total
+[2020.07.21-09.01.13:410][  0]LogMemory: Virtual Memory: 5016.42 MB used,  134212712.00 MB free, 134217728.00 MB total
+[2020.07.21-09.01.13:413][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.21-09.01.13:426][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.21-09.01.13:435][  0]LogInit: Using OS detected language (en-US).
+[2020.07.21-09.01.13:435][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.21-09.01.13:436][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ar/OnlineSubsystem.locres
+[2020.07.21-09.01.13:437][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/de/OnlineSubsystem.locres
+[2020.07.21-09.01.13:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres
+[2020.07.21-09.01.13:440][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es/OnlineSubsystem.locres
+[2020.07.21-09.01.13:441][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-419/OnlineSubsystem.locres
+[2020.07.21-09.01.13:442][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-MX/OnlineSubsystem.locres
+[2020.07.21-09.01.13:443][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/fr/OnlineSubsystem.locres
+[2020.07.21-09.01.13:444][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/it/OnlineSubsystem.locres
+[2020.07.21-09.01.13:446][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ja/OnlineSubsystem.locres
+[2020.07.21-09.01.13:447][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ko/OnlineSubsystem.locres
+[2020.07.21-09.01.13:449][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pl/OnlineSubsystem.locres
+[2020.07.21-09.01.13:450][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt-BR/OnlineSubsystem.locres
+[2020.07.21-09.01.13:451][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ru/OnlineSubsystem.locres
+[2020.07.21-09.01.13:452][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans/OnlineSubsystem.locres
+[2020.07.21-09.01.13:453][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ar/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:455][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/de/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:457][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:458][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:459][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-419/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:461][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/fr/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:462][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/it/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:463][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ja/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:465][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ko/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:466][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pl/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:467][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt-BR/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:468][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ru/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:470][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans/OnlineSubsystemUtils.locres
+[2020.07.21-09.01.13:471][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.21-09.01.13:471][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Localization/Engine/en/Engine.locres
+[2020.07.21-09.01.13:481][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Splash/Splash.bmp
+[2020.07.21-09.01.13:502][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/numberingSystems.res
+[2020.07.21-09.01.13:503][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/curr/supplementalData.res
+[2020.07.21-09.01.13:504][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/curr/en.res
+[2020.07.21-09.01.13:505][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/curr/pool.res
+[2020.07.21-09.01.13:506][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/curr/root.res
+[2020.07.21-09.01.13:508][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Checkerboard.png
+[2020.07.21-09.01.13:511][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.21-09.01.13:511][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.21-09.01.13:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.21-09.01.13:523][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.21-09.01.13:523][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.21-09.01.13:523][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.21-09.01.13:589][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2020.07.21-09.01.13:589][  0]LogD3D11RHI:       8011/0/16339 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.21-09.01.13:591][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.21-09.01.13:591][  0]LogD3D11RHI:       0/0/16339 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.21-09.01.13:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.21-09.01.13:600][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.21-09.01.13:600][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.21-09.01.13:601][  0]LogWindows: EnumDisplayDevices:
+[2020.07.21-09.01.13:601][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2020.07.21-09.01.13:601][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2020.07.21-09.01.13:601][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.07.21-09.01.13:601][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.07.21-09.01.13:601][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.21-09.01.13:601][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2020.07.21-09.01.13:601][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.07.21-09.01.13:601][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.07.21-09.01.13:601][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2020.07.21-09.01.13:649][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.21-09.01.13:649][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.21-09.01.13:649][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.21-09.01.13:669][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.21-09.01.13:670][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/GlobalShaderCache-PCD3D_SM5.bin
+[2020.07.21-09.01.13:704][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.21-09.01.13:705][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/brkitr/en_US.res
+[2020.07.21-09.01.13:706][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/brkitr/en.res
+[2020.07.21-09.01.13:707][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/brkitr/root.res
+[2020.07.21-09.01.13:708][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/brkitr/char.brk
+[2020.07.21-09.01.13:709][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/White.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/DashedBorder.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBlockHighlightShape_Empty.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_help_16x.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/GroupBorder.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Paste_16x.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Check.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Throbber_Piece.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorPicker_Mode_16x.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorGradingWheel.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_tab_toolbar_16px.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/toolbar_expand_16x.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CursorPing.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/TrashCan_Small.png
+[2020.07.21-09.01.13:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/DefaultAppIcon.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_redo_16px.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VerticalBoxDragIndicatorShort.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/Menu_Background.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBoxLabelBorder.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Circle.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TreeArrow_Expanded.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/RoundedSelection_16x.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Selection.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/BoxShadow.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Button.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/cursor_grab.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_info_16x.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/DebugBorder.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Duplicate_16x.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/EditableTextSelectionBackground.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/Menu_Background_Inverted_Border_Bold.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorPicker_Separator.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TreeArrow_Collapsed.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SubmenuArrow.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/Button.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBlockHighlightShape.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Cross_12x.png
+[2020.07.21-09.01.13:744][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/EventMessage_Default.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Copy_16x.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/PlusSymbol_12x.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/ToolTip_Background.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Checker.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/X.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TreeArrow_Expanded_Hovered.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/OuterDockingIndicator.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/DockingIndicator_Center.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Tutorials/TutorialBorder.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ExpansionButton_CloseOverlay.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/cursor_cardinal_cross.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_warning_16x.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_undo_16px.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Rename_16x.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/HyperlinkDotted.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/Notification_Border_Flash.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorSpectrum.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TreeArrow_Collapsed_Hovered.png
+[2020.07.21-09.01.13:767][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_tab_WidgetReflector_40x.png
+[2020.07.21-09.01.13:768][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/MessageLog/Log_Note.png
+[2020.07.21-09.01.13:768][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Scrollbar_Background_Vertical.png
+[2020.07.21-09.01.13:768][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/denied_16x.png
+[2020.07.21-09.01.13:768][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Separator.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Cut_16x.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/ellipsis_12x.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/ToolTip_BrightBackground.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/eyedropper_16px.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorWheel.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_generic_toolbar.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ComboArrow.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/MessageLog/Log_Error.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Tutorials/TutorialShadow.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Delimiter.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/TrashCan.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_Downloads_16x.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Button_Pressed.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VerticalBoxDragIndicator.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Button_Hovered.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/notificationlist_success.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Scrollbar_Background_Horizontal.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Scrollbar_Thumb.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/BackIcon.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox_Checked_Hovered.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_error_16x.png
+[2020.07.21-09.01.13:791][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox_Undetermined_Hovered.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Edit/icon_Edit_Delete_16x.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Selector.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/Border.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/RadioButton_Unselected_16x.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/RadioButton_Selected_16x.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_Hovered.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/MessageLog/Log_Warning.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/icon_tab_WidgetReflector_16x.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_Dark.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_ReadOnly.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Old/HyperlinkUnderline.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ProgressBar_Background.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ProgressBar_Fill.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_Special.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/notificationlist_fail.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/UpArrow.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Button_Disabled.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox_Hovered.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/NextIcon.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox_Checked.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VolumeControl_High.png
+[2020.07.21-09.01.13:813][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VolumeControl_Off.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox_Fill.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox_Fill_Hovered.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox_Fill_Hovered_Dark.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SpinArrows.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColorPicker_SliderHandle.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SplitterHandleHighlight.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/DropZoneIndicator_Above.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/DropZoneIndicator_Below.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/DropZoneIndicator_Onto.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_Hovered_Dark.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SortUpArrow.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SortDownArrows.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColumnHeaderMenuButton_Normal.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ProgressBar_Marquee.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TextBox_Special_Hovered.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SortUpArrows.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/DownArrow.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColumnHeader_Arrow.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SortDownArrow.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/LastColumnHeader_Hovered.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/CheckBox_Undetermined.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VolumeControl_Mid.png
+[2020.07.21-09.01.13:838][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VolumeControl_Muted.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/HeaderSplitterGrip.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/CloseApp_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox_Fill_Dark.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SmallCheckBox.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SmallCheckBox_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Icons/Empty_14x.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SmallCheck.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SmallCheckBox_Checked.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Normal.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/CloseApp_Normal.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/Tab_Shape.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColumnHeader.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColumnHeaderMenuButton_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/Tab_ColorOverlayIcon.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/CloseApp_Pressed.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ColumnHeader_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SearchGlass.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_Inactive.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_ColorOverlayIcon.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBoxShadowTop.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBoxShadowRight.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/VolumeControl_Low.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/Tab_Active.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_Active.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_Foreground.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBoxShadowBottom.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBorderShadowTop.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/SmallCheckBox_Checked_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowTitle.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowBorder.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Hovered.png
+[2020.07.21-09.01.13:873][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/TableViewHeader.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/Tab_ColorOverlay.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Pressed.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Pressed.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowTitle_Inactive.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowOutline.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/ShowTabwellButton_Pressed.png
+[2020.07.21-09.01.13:880][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Spinbox_Hovered.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Pressed.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Maximize_Normal.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Normal.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowTitle_Flashing.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowBackground.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Close_Pressed.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Restore_Normal.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBoxShadowLeft.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_ColorOverlay.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTab_Hovered.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/NoiseBackground.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/ScrollBorderShadowBottom.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Docking/AppTabContentArea.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Slate/Common/Window/WindowButton_Minimize_Normal.png
+[2020.07.21-09.01.13:896][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Internationalization/icudt64l/brkitr/word.brk
+[2020.07.21-09.01.13:912][  0]LogInit: Using OS detected language (en-US).
+[2020.07.21-09.01.13:912][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.21-09.01.13:912][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.07.21-09.01.13:912][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.07.21-09.01.13:912][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.21-09.01.13:912][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.21-09.01.13:913][  0]LogTextLocalizationManager: Compacting localization data took   0.42ms
+[2020.07.21-09.01.13:913][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/AssetRegistry.bin
+[2020.07.21-09.01.13:929][  0]LogAssetRegistry: FAssetRegistry took 0.0154 seconds to start up
+[2020.07.21-09.01.13:980][  0]LogStreaming: Display: Flushing async loaders.
+[2020.07.21-09.01.13:981][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000074 seconds
+[2020.07.21-09.01.13:981][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset
+[2020.07.21-09.01.14:089][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp
+[2020.07.21-09.01.14:089][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset
+[2020.07.21-09.01.14:093][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp
+[2020.07.21-09.01.14:093][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.07.21-09.01.14:099][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/GradientTexture0.uasset
+[2020.07.21-09.01.14:107][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/GradientTexture0.uexp
+[2020.07.21-09.01.14:107][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/Black.uasset
+[2020.07.21-09.01.14:112][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/Black.uexp
+[2020.07.21-09.01.14:112][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMeshes/Sphere.uasset
+[2020.07.21-09.01.14:119][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMeshes/Sphere.uexp
+[2020.07.21-09.01.14:119][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 64348278)
+[2020.07.21-09.01.14:119][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Master.uasset
+[2020.07.21-09.01.14:122][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+[2020.07.21-09.01.14:227][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+[2020.07.21-09.01.14:230][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+[2020.07.21-09.01.14:234][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Master.uexp
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp
+[2020.07.21-09.01.14:251][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset
+[2020.07.21-09.01.14:274][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset
+[2020.07.21-09.01.14:284][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp
+[2020.07.21-09.01.14:284][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp
+[2020.07.21-09.01.14:284][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset
+[2020.07.21-09.01.14:299][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp
+[2020.07.21-09.01.14:299][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+[2020.07.21-09.01.14:306][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset
+[2020.07.21-09.01.14:315][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp
+[2020.07.21-09.01.14:315][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp
+[2020.07.21-09.01.14:315][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultTexture.uasset
+[2020.07.21-09.01.14:321][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultTexture.uexp
+[2020.07.21-09.01.14:321][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultTextureCube.uasset
+[2020.07.21-09.01.14:327][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultTextureCube.uexp
+[2020.07.21-09.01.14:327][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset
+[2020.07.21-09.01.14:337][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp
+[2020.07.21-09.01.14:337][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset
+[2020.07.21-09.01.14:343][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp
+[2020.07.21-09.01.14:343][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset
+[2020.07.21-09.01.14:362][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp
+[2020.07.21-09.01.14:362][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset
+[2020.07.21-09.01.14:366][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp
+[2020.07.21-09.01.14:366][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset
+[2020.07.21-09.01.14:370][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset
+[2020.07.21-09.01.14:372][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset
+[2020.07.21-09.01.14:386][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp
+[2020.07.21-09.01.14:386][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp
+[2020.07.21-09.01.14:386][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp
+[2020.07.21-09.01.14:386][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset
+[2020.07.21-09.01.14:394][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp
+[2020.07.21-09.01.14:394][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset
+[2020.07.21-09.01.14:397][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset
+[2020.07.21-09.01.14:402][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp
+[2020.07.21-09.01.14:402][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp
+[2020.07.21-09.01.14:402][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Config/BaseEditorPerProjectUserSettings.ini
+[2020.07.21-09.01.14:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-09.01.14:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-09.01.14:411][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset
+[2020.07.21-09.01.14:418][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uexp
+[2020.07.21-09.01.14:418][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset
+[2020.07.21-09.01.14:425][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset
+[2020.07.21-09.01.14:428][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset
+[2020.07.21-09.01.14:430][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset
+[2020.07.21-09.01.14:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp
+[2020.07.21-09.01.14:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp
+[2020.07.21-09.01.14:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp
+[2020.07.21-09.01.14:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp
+[2020.07.21-09.01.14:439][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset
+[2020.07.21-09.01.14:452][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uexp
+[2020.07.21-09.01.14:452][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset
+[2020.07.21-09.01.14:458][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp
+[2020.07.21-09.01.14:458][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMeshes/Cylinder.uasset
+[2020.07.21-09.01.14:461][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset
+[2020.07.21-09.01.14:481][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp
+[2020.07.21-09.01.14:481][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMeshes/Cylinder.uexp
+[2020.07.21-09.01.14:481][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset
+[2020.07.21-09.01.14:542][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp
+[2020.07.21-09.01.14:542][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Roboto.uasset
+[2020.07.21-09.01.14:545][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset
+[2020.07.21-09.01.14:547][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset
+[2020.07.21-09.01.14:550][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset
+[2020.07.21-09.01.14:553][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset
+[2020.07.21-09.01.14:555][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset
+[2020.07.21-09.01.14:557][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineFonts/Roboto.uexp
+[2020.07.21-09.01.14:571][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset
+[2020.07.21-09.01.14:577][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset
+[2020.07.21-09.01.14:585][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp
+[2020.07.21-09.01.14:585][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp
+[2020.07.21-09.01.14:585][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
+[2020.07.21-09.01.14:591][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp
+[2020.07.21-09.01.14:591][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset
+[2020.07.21-09.01.14:597][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp
+[2020.07.21-09.01.14:597][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset
+[2020.07.21-09.01.14:603][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp
+[2020.07.21-09.01.14:603][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset
+[2020.07.21-09.01.14:611][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp
+[2020.07.21-09.01.14:611][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset
+[2020.07.21-09.01.14:624][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp
+[2020.07.21-09.01.14:624][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000220AAD6AEC0), frame # 0
+[2020.07.21-09.01.14:624][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000220FF30D1C0), frame # 0
+[2020.07.21-09.01.14:625][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022098CA0200), frame # 0
+[2020.07.21-09.01.14:627][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset
+[2020.07.21-09.01.14:631][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp
+[2020.07.21-09.01.14:631][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset
+[2020.07.21-09.01.14:636][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset
+[2020.07.21-09.01.14:643][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp
+[2020.07.21-09.01.14:643][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp
+[2020.07.21-09.01.14:643][  0]LogMoviePlayer: Initializing movie player
+[2020.07.21-09.01.14:692][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset
+[2020.07.21-09.01.14:697][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp
+[2020.07.21-09.01.14:697][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset
+[2020.07.21-09.01.14:700][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uexp
+[2020.07.21-09.01.14:700][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset
+[2020.07.21-09.01.14:705][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uexp
+[2020.07.21-09.01.14:706][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset
+[2020.07.21-09.01.14:709][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp
+[2020.07.21-09.01.14:709][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset
+[2020.07.21-09.01.14:714][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp
+[2020.07.21-09.01.14:714][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.21-09.01.14:733][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.21-09.01.14:734][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.21-09.01.14:734][  0]LogOcInput: OculusInput pre-init called
+[2020.07.21-09.01.14:738][  0]LogUObjectArray: 14218 objects as part of root set at end of initial load.
+[2020.07.21-09.01.14:738][  0]LogUObjectAllocator: 2871960 out of 0 bytes used by permanent object pool.
+[2020.07.21-09.01.14:738][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.21-09.01.14:739][  0]LogEngine: Initializing Engine...
+[2020.07.21-09.01.14:740][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.21-09.01.14:740][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.21-09.01.14:740][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset
+[2020.07.21-09.01.14:747][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp
+[2020.07.21-09.01.14:747][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset
+[2020.07.21-09.01.14:754][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp
+[2020.07.21-09.01.14:754][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset
+[2020.07.21-09.01.14:761][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset
+[2020.07.21-09.01.14:765][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp
+[2020.07.21-09.01.14:765][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp
+[2020.07.21-09.01.14:765][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset
+[2020.07.21-09.01.14:773][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset
+[2020.07.21-09.01.14:779][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp
+[2020.07.21-09.01.14:779][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp
+[2020.07.21-09.01.14:779][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset
+[2020.07.21-09.01.14:787][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp
+[2020.07.21-09.01.14:787][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset
+[2020.07.21-09.01.14:794][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset
+[2020.07.21-09.01.14:799][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp
+[2020.07.21-09.01.14:799][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp
+[2020.07.21-09.01.14:799][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset
+[2020.07.21-09.01.14:805][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp
+[2020.07.21-09.01.14:805][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset
+[2020.07.21-09.01.14:811][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp
+[2020.07.21-09.01.14:811][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset
+[2020.07.21-09.01.15:446][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp
+[2020.07.21-09.01.15:446][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset
+[2020.07.21-09.01.15:461][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp
+[2020.07.21-09.01.15:461][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/MiniFont.uasset
+[2020.07.21-09.01.15:467][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/MiniFont.uexp
+[2020.07.21-09.01.15:467][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset
+[2020.07.21-09.01.15:471][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp
+[2020.07.21-09.01.15:471][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset
+[2020.07.21-09.01.15:475][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp
+[2020.07.21-09.01.15:475][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/BlueNoise.uasset
+[2020.07.21-09.01.15:517][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/BlueNoise.uexp
+[2020.07.21-09.01.15:517][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset
+[2020.07.21-09.01.15:523][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp
+[2020.07.21-09.01.15:523][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-09.01.15:523][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-09.01.15:523][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-09.01.15:523][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-09.01.15:527][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.21-09.01.15:532][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-09.01.15:532][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-09.01.15:552][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-09.01.15:553][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-09.01.15:553][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset
+[2020.07.21-09.01.15:558][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset
+[2020.07.21-09.01.15:560][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset
+[2020.07.21-09.01.15:564][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset
+[2020.07.21-09.01.15:566][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset
+[2020.07.21-09.01.15:574][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uexp
+[2020.07.21-09.01.15:574][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uexp
+[2020.07.21-09.01.15:574][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uexp
+[2020.07.21-09.01.15:574][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uexp
+[2020.07.21-09.01.15:574][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uexp
+[2020.07.21-09.01.15:574][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-09.01.15:574][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-09.01.15:575][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-09.01.15:575][  0]LogInit: FAudioDevice initialized.
+[2020.07.21-09.01.15:575][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.21-09.01.15:575][  0]LogInit: Texture streaming: Enabled
+[2020.07.21-09.01.15:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-09.01.15:581][  0]LogInit: Display: Game Engine Initialized.
+[2020.07.21-09.01.15:581][  0]LogInit: Display: Starting Game.
+[2020.07.21-09.01.15:581][  0]LogNet: Browse: /Game/NewMap?Name=Player
+[2020.07.21-09.01.15:581][  0]LogLoad: LoadMap: /Game/NewMap?Name=Player
+[2020.07.21-09.01.15:581][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.07.21-09.01.15:582][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-09.01.15:582][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-09.01.15:592][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.21-09.01.15:595][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap.uasset
+[2020.07.21-09.01.15:670][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap.umap
+[2020.07.21-09.01.15:682][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_TableRound.uasset
+[2020.07.21-09.01.15:686][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2020.07.21-09.01.15:690][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_Door.uasset
+[2020.07.21-09.01.15:692][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_Chair.uasset
+[2020.07.21-09.01.15:696][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2020.07.21-09.01.15:700][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_500x500.uasset
+[2020.07.21-09.01.15:702][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_400x300.uasset
+[2020.07.21-09.01.15:705][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset
+[2020.07.21-09.01.15:710][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Stars.uasset
+[2020.07.21-09.01.15:713][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset
+[2020.07.21-09.01.15:718][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Blue.uasset
+[2020.07.21-09.01.15:732][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2020.07.21-09.01.15:741][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2020.07.21-09.01.15:748][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2020.07.21-09.01.15:756][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2020.07.21-09.01.15:763][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2020.07.21-09.01.15:772][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2020.07.21-09.01.15:779][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2020.07.21-09.01.15:786][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2020.07.21-09.01.15:792][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset
+[2020.07.21-09.01.15:798][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap_BuiltData.uasset
+[2020.07.21-09.01.15:806][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset
+[2020.07.21-09.01.15:810][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2020.07.21-09.01.15:817][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Frame.uasset
+[2020.07.21-09.01.15:824][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_TableRound_N.uasset
+[2020.07.21-09.01.15:845][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_TableRound_M.uasset
+[2020.07.21-09.01.15:854][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Frame_N.uasset
+[2020.07.21-09.01.15:872][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Frame_M.uasset
+[2020.07.21-09.01.15:880][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Door.uasset
+[2020.07.21-09.01.15:888][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Glass.uasset
+[2020.07.21-09.01.15:902][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2020.07.21-09.01.17:030][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Door_N.uasset
+[2020.07.21-09.01.17:047][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Door_M.uasset
+[2020.07.21-09.01.17:055][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Chair_N.uasset
+[2020.07.21-09.01.17:077][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Chair_M.uasset
+[2020.07.21-09.01.17:105][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2020.07.21-09.01.17:113][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2020.07.21-09.01.17:142][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2020.07.21-09.01.17:163][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2020.07.21-09.01.17:190][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2020.07.21-09.01.17:204][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2020.07.21-09.01.17:223][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2020.07.21-09.01.17:249][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_MacroVariation.uasset
+[2020.07.21-09.01.17:264][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2020.07.21-09.01.17:267][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2020.07.21-09.01.17:291][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2020.07.21-09.01.17:306][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2020.07.21-09.01.17:321][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2020.07.21-09.01.17:348][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2020.07.21-09.01.17:376][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2020.07.21-09.01.17:402][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2020.07.21-09.01.17:429][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2020.07.21-09.01.17:452][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2020.07.21-09.01.17:477][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2020.07.21-09.01.17:484][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2020.07.21-09.01.17:508][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2020.07.21-09.01.17:523][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2020.07.21-09.01.17:544][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2020.07.21-09.01.17:569][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2020.07.21-09.01.17:584][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2020.07.21-09.01.17:610][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/SM_SkySphere.uasset
+[2020.07.21-09.01.17:613][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset
+[2020.07.21-09.01.17:615][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset
+[2020.07.21-09.01.17:618][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/SM_SkySphere.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_MacroVariation.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Basic_Wall.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Chair_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Chair_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Door_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Door_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Door.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Glass.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Frame_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Frame_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_TableRound_N.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_TableRound_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_Frame.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/Materials/M_TableRound.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_TableRound.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_DoorFrame.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_Door.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Props/SM_Chair.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_Door_400x300.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_500x500.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Architecture/Wall_400x300.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Stars.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Blue.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Metal_Gold.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Tiles.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_New.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap_BuiltData.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Poured.uexp
+[2020.07.21-09.01.17:723][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Concrete_Panels.uexp
+[2020.07.21-09.01.17:724][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp
+[2020.07.21-09.01.17:724][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp
+[2020.07.21-09.01.17:725][  0]LogAIModule: Creating AISystem for world NewMap
+[2020.07.21-09.01.17:725][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000220FE03AA00), frame # 0
+[2020.07.21-09.01.17:725][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000220FF30F600), frame # 0
+[2020.07.21-09.01.17:725][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/BuildingEscapeGameModeBase_BP.uasset
+[2020.07.21-09.01.17:739][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/DefaultPawn_BP.uasset
+[2020.07.21-09.01.17:746][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/BuildingEscapeGameModeBase_BP.uexp
+[2020.07.21-09.01.17:746][  0]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/DefaultPawn_BP.uexp
+[2020.07.21-09.01.17:746][  0]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.07.21-09.01.17:747][  0]LogWorld: Bringing World /Game/NewMap.NewMap up for play (max tick rate 0) at 2020.07.21-14.31.17
+[2020.07.21-09.01.17:747][  0]LogWorld: Bringing up level for play took: 0.001162
+[2020.07.21-09.01.17:749][  0]LogLoad: Took 2.167887 seconds to LoadMap(/Game/NewMap)
+[2020.07.21-09.01.17:770][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-09.01.17:770][  0]LogLoad: (Engine Initialization) Total time: 185.23 seconds
+[2020.07.21-09.01.17:802][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.21-09.01.17:803][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-09.01.17:891][  0]LogSlate: Slate font cache was flushed
+[2020.07.21-09.01.17:912][  7]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/NewMap_BuiltData.ubulk
+[2020.07.21-09.01.17:924][  8]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk
+[2020.07.21-09.01.17:925][  8]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk
+[2020.07.21-09.01.17:928][  9]LogNetworkPlatformFile: Requesting file ../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk
+[2020.07.21-09.01.17:951][ 14]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk
+[2020.07.21-09.01.17:960][ 16]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk
+[2020.07.21-09.01.17:968][ 17]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk
+[2020.07.21-09.01.17:986][ 21]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk
+[2020.07.21-09.01.17:992][ 22]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk
+[2020.07.21-09.01.18:008][ 25]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk
+[2020.07.21-09.01.18:040][ 31]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk
+[2020.07.21-09.01.18:055][ 34]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk
+[2020.07.21-09.01.18:069][ 37]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk
+[2020.07.21-09.01.18:084][ 40]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk
+[2020.07.21-09.01.18:086][ 41]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk
+[2020.07.21-09.01.18:102][ 44]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk
+[2020.07.21-09.01.18:117][ 47]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk
+[2020.07.21-09.01.18:132][ 51]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk
+[2020.07.21-09.01.18:142][ 54]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk
+[2020.07.21-09.01.18:159][ 59]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk
+[2020.07.21-09.01.18:175][ 64]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk
+[2020.07.21-09.01.18:193][ 69]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk
+[2020.07.21-09.01.18:212][ 74]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk
+[2020.07.21-09.01.18:232][ 79]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk
+[2020.07.21-09.01.18:253][ 84]LogNetworkPlatformFile: Requesting file ../../../BuildingEscape/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk
+[2020.07.21-09.01.21:588][104]LogTemp: Warning: grabber called!
+[2020.07.21-09.01.21:588][104]LogTemp: Warning: Hit at SM_Chair_35
+[2020.07.21-09.01.22:409][335]LogTemp: Warning: release called!
+[2020.07.21-09.01.24:563][  3]LogTemp: Warning: grabber called!
+[2020.07.21-09.01.24:563][  3]LogTemp: Warning: Hit at SM_TableRound_15
+[2020.07.21-09.01.25:574][287]LogTemp: Warning: release called!
+[2020.07.21-09.01.27:299][800]LogTemp: Warning: grabber called!
+[2020.07.21-09.01.27:299][800]LogTemp: Warning: Hit at SM_TableRound_15
+[2020.07.21-09.01.30:821][787]LogTemp: Warning: release called!
+[2020.07.21-09.01.32:441][216]LogTemp: Warning: grabber called!
+[2020.07.21-09.01.32:441][216]LogTemp: Warning: Hit at SM_TableRound_15
+[2020.07.21-09.01.35:668][ 73]LogTemp: Warning: release called!
+[2020.07.21-09.01.37:097][461]LogTemp: Warning: grabber called!
+[2020.07.21-09.01.37:097][461]LogTemp: Warning: Hit at SM_TableRound_15
+[2020.07.21-09.01.40:703][493]LogTemp: Warning: release called!
+[2020.07.21-09.01.40:908][555]LogTemp: Warning: grabber called!

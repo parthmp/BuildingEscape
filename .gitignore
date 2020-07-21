@@ -4,7 +4,8 @@
 */Intermediate
 */Saved
 *_BuiltData.uasset
-Content/StarterContent/
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
 *.VC.db
 Binaries/Win64/UE4Editor-BuildingEscape-1186.pdb
 Binaries/
