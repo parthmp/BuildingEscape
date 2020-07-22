@@ -45,4 +45,6 @@ private :
 
 	AActor* Owner;
 
+	float GetTotalMass();
+
 };

@@ -38,5 +38,7 @@ private :
 	void Release();
 	void FindPhysicsHandler();
 	void FindInputComponent();
+	FVector GetPlayerStart();
+	FVector GetPlayerEnd();
 	const FHitResult GetFirstPhysicsBodyInReach();
 };

@@ -32,15 +32,19 @@ void UGrabber::Grab() {
 	UPrimitiveComponent* ComponentToGrab = Hit.GetComponent();
 	AActor* ActorHit = Hit.GetActor();
 
-	PhysicsHandler->GrabComponent(ComponentToGrab,NAME_None, ComponentToGrab->GetOwner()->GetActorLocation(), true);
+	if (ActorHit) {
+		PhysicsHandler->GrabComponent(ComponentToGrab, NAME_None, ComponentToGrab->GetOwner()->GetActorLocation(), true);
+	}
 
 }
+
 void UGrabber::Release() {
 	UE_LOG(LogTemp, Warning, TEXT("release called!"));
 	PhysicsHandler->ReleaseComponent();
 }
 
 void UGrabber::FindInputComponent() {
+
 	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
 
 	if (InputComponent) {
@@ -52,21 +56,35 @@ void UGrabber::FindInputComponent() {
 	}
 }
 
-const FHitResult UGrabber::GetFirstPhysicsBodyInReach() {
+FVector UGrabber::GetPlayerStart() {
 
 	FVector Location;
 	FRotator Rotation;
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Location, Rotation);
 
-	FVector EndTrace = Location + (Rotation.Vector() * Reach);
+	return Location;
+}
+
+FVector UGrabber::GetPlayerEnd() {
+
+	FVector Location;
+	FRotator Rotation;
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Location, Rotation);
+
+	return (Location + (Rotation.Vector() * Reach));
+}
+
+const FHitResult UGrabber::GetFirstPhysicsBodyInReach() {
+
+	
 
 	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
 
 	FHitResult Hit;
 	GetWorld()->LineTraceSingleByObjectType(
 		Hit,
-		Location,
-		EndTrace,
+		GetPlayerStart(),
+		GetPlayerEnd(),
 		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
 		TraceParams
 	);
@@ -97,13 +115,8 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 
 	if (PhysicsHandler->GrabbedComponent) {
 
-		FVector Location;
-		FRotator Rotation;
-		GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Location, Rotation);
+		PhysicsHandler->SetTargetLocation(GetPlayerEnd());
 
-		FVector EndTrace = Location + (Rotation.Vector() * Reach);
-
-		PhysicsHandler->SetTargetLocation(EndTrace);
 	}
 
 	
